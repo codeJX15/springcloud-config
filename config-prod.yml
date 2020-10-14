@@ -1,2 +1,5 @@
 config:
   info: prod
+  branch: main
+  version: 1.0
+	

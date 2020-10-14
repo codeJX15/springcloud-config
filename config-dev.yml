@@ -1,2 +1,4 @@
 config:
   info: dev
+  branch: main
+  version: 1.0
