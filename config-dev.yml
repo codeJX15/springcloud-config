@@ -1,4 +1,4 @@
 config:
-  info: dev for project one
+  info: dev for project one 1.0
   branch: main
   version: 1.0
